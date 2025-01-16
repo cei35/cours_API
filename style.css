@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+  size: 50px;
+  font: bold;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+li {
+    display: block;
+    margin-right: 50px;
+    margin-left: 50px;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+  }
